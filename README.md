@@ -5,7 +5,7 @@ Recon tool for client-side desync recon. Filters a host list down to targets tha
 ## Install
 
 ```bash
-git clone https://github.com/J707/http1.1
+git clone https://github.com/J707-2/http1.1
 cd http1.1
 chmod +x http1.1.py
 cp http1.1.py /usr/local/bin/http1.1
