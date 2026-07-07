@@ -24,7 +24,7 @@ http1.1 --output ~/path/to/output
 Then point it at a hosts file:
 
 ```bash
-http1.1 <name> <hosts.txt>
+http1.1 <arbitrary-name> <hosts.txt>
 ```
 
 Results go to the output directory under the scan name. H2 hosts are discarded and not written anywhere.
